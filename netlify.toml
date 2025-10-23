@@ -1,0 +1,8 @@
+[build]
+  command = ""
+  publish = "trinity_esm_fix_v2"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "no-cache"
